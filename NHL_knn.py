@@ -136,3 +136,6 @@ plt.xlabel('Value of K for KNN')
 plt.ylabel('Error (lower is better)')
 plt.savefig('KNN.png')
 
+#display best k for minimum error
+df.sort('testing error').head()
+
