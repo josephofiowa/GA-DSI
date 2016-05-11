@@ -7,7 +7,7 @@ Created on Wed May 11 14:55:26 2016
 
 
 import pandas as pd
-NHL = pd.read_csv('NHL_data.csv')
+NHL = pd.read_csv('https://raw.githubusercontent.com/josephnelson93/GA-DSI/master/NHL_Data_GA.csv')
 NHL.head()
 NHL.describe()
 NHL.shape
