@@ -23,7 +23,7 @@ feature_cols = ['CF%', 'GF', 'Sh%', 'PDO']
 X = NHL[feature_cols]
 
 # store response vector in "y"
-y = NHL.PTS
+y = NHL.Rank
 
 # check X's type
 print type(X)
