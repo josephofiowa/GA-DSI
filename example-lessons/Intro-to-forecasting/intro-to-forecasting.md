@@ -1,4 +1,5 @@
 # PPT
+https://github.com/josephnelson93/GA-DSI/blob/master/example-lessons/Intro-to-forecasting/Intro_to_forecasting.pdf
 
 # Code 
 
