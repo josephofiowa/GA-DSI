@@ -20,7 +20,7 @@ from statsmodels.tsa.stattools import acf
 from statsmodels.tsa.stattools import pacf
 from statsmodels.tsa.seasonal import seasonal_decompose
 
-bus = pd.read_csv('portland-oregon-average-monthly-.csv', index_col=0)
+bus = pd.read_csv('https://raw.githubusercontent.com/josephnelson93/GA-DSI/master/example-lessons/Intro-to-forecasting/portland-oregon-average-monthly-.csv', index_col=0)
 bus.index.name=None
 bus.reset_index(inplace=True)
 bus.head()
@@ -37,7 +37,7 @@ bus.set_index(['index'], inplace=True)
 bus.index.name=None
 
 len(date_list)  # check
-len(df.index)   # check
+len(bus.index)   # check
 
 # riders
 bus.columns= ['riders']
@@ -101,3 +101,4 @@ test_stationarity(bus.seasonal_first_difference.dropna(inplace=False))
 
 # Source (but cleaned):
 # https://github.com/seanabu/seanabu.github.io/blob/master/Seasonal_ARIMA_model_Portland_transit.ipynb
+
