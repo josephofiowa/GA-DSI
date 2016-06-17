@@ -5,7 +5,6 @@ Created on Fri Jun 17 02:16:40 2016
 @author: JosephNelson
 """
 
-
 # REQUIRES DEV VERSION OF STATSMODELS
 # git clone git://github.com/statsmodels/statsmodels.git
 # python setup.py install
@@ -78,7 +77,6 @@ plot_pacf(residuals, lags=30)
 model = sm.tsa.statespace.SARIMAX(data, order=(0,1,3), seasonal_order=(0,1,1,4))
 results = model.fit()
 print results.summary()
-
 
 # forecasting
 res = model.fit()
