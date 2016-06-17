@@ -21,3 +21,6 @@ https://github.com/josephnelson93/GA-DSI/blob/master/example-lessons/Intro-to-fo
 + [Wikipedia Dickey-Fuller](https://en.wikipedia.org/wiki/Dickey%E2%80%93Fuller_test)
 + Stats Exchange breakdown of [Augmented Dickey-Fuller](http://stats.stackexchange.com/questions/44647/which-dickey-fuller-test-should-i-apply-to-a-time-series-with-an-underlying-mode)
 + BONUS! Checkout [Granger Causality tests](https://en.wikipedia.org/wiki/Granger_causality)
+
+# Video
+https://www.youtube.com/watch?v=6o03gF4gDUk
