@@ -12,7 +12,7 @@ Created on Fri Jun 17 02:16:40 2016
 import pandas as pd
 %matplotlib inline
 
-df = pd.read_csv('https://raw.githubusercontent.com/generalassembly-studio/dsi-course-materials/master/curriculum/04-lessons/week-09/4.1-lesson/assets/data/euretail.csv?token=ANUte7N9Da2tUY5ZVbijhXTKBGlXKDQMks5XbM_EwA%3D%3D')
+df = pd.read_csv('https://raw.githubusercontent.com/josephnelson93/GA-DSI/master/example-lessons/Intro-to-forecasting/euretail.csv')
 df = df.set_index(['Year'])
 df.head()
 df.stack().plot()
