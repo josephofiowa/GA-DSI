@@ -3,9 +3,11 @@ https://github.com/josephnelson93/GA-DSI/blob/master/example-lessons/Intro-to-fo
 
 # Code 
 
-## "Park the Bus"
+## "Park the Bus" (Seasonality)
+https://github.com/josephnelson93/GA-DSI/blob/master/example-lessons/Intro-to-forecasting/ARIMA_stationarity.py
 
 ## Seasonal ARIMA
+https://github.com/josephnelson93/GA-DSI/blob/master/example-lessons/Intro-to-forecasting/ARIMA_2.py
 
 # Resources
 + A soft introduction to [Akaike Information Criteria](https://coolstatsblog.com/2013/08/14/using-aic-to-test-arima-models-2/)
