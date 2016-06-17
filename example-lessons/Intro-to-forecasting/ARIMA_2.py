@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun 17 02:16:40 2016
+Created on Wed Jun 15 10:16:40 2016
 
 @author: JosephNelson
 """
+
 
 # REQUIRES DEV VERSION OF STATSMODELS
 # git clone git://github.com/statsmodels/statsmodels.git
@@ -12,7 +13,7 @@ Created on Fri Jun 17 02:16:40 2016
 import pandas as pd
 %matplotlib inline
 
-df = pd.read_csv('https://raw.githubusercontent.com/josephnelson93/GA-DSI/master/example-lessons/Intro-to-forecasting/euretail.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/generalassembly-studio/dsi-course-materials/master/curriculum/04-lessons/week-09/4.1-lesson/assets/data/euretail.csv?token=ANUte7N9Da2tUY5ZVbijhXTKBGlXKDQMks5XbM_EwA%3D%3D')
 df = df.set_index(['Year'])
 df.head()
 df.stack().plot()
@@ -74,9 +75,10 @@ plot_acf(residuals, lags=30)
 plot_pacf(residuals, lags=30)
 
 
-model = sm.tsa.statespace.SARIMAX(data, order=(0,1,3), seasonal_order=(0,1,1,4))
+model = sm.tsa.statespace.SARIMAX(data, order=(0,1,2), seasonal_order=(0,1,1,4))
 results = model.fit()
 print results.summary()
+
 
 # forecasting
 res = model.fit()
