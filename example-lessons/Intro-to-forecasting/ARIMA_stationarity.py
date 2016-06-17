@@ -101,4 +101,3 @@ test_stationarity(bus.seasonal_first_difference.dropna(inplace=False))
 
 # Source (but cleaned):
 # https://github.com/seanabu/seanabu.github.io/blob/master/Seasonal_ARIMA_model_Portland_transit.ipynb
-
