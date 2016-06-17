@@ -3,7 +3,7 @@ https://github.com/josephnelson93/GA-DSI/blob/master/example-lessons/Intro-to-fo
 
 # Code 
 
-## "Park the Bus" (Seasonality)
+## "Park the Bus" (Stationarity)
 https://github.com/josephnelson93/GA-DSI/blob/master/example-lessons/Intro-to-forecasting/ARIMA_stationarity.py
 
 ## Seasonal ARIMA
