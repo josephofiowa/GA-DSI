@@ -9,6 +9,17 @@ https://github.com/josephnelson93/GA-DSI/blob/master/example-lessons/Intro-to-fo
 ## Seasonal ARIMA
 https://github.com/josephnelson93/GA-DSI/blob/master/example-lessons/Intro-to-forecasting/ARIMA_2.py
 
+Depedency note: you must have statsmodels==0.8 for seasonal ARIMA models. This is the development version; you likely have the most recent stable release, statsmodels==0.6
+
+Run
+```bash
+git clone git://github.com/statsmodels/statsmodels.git```
+```
+Followed by:
+```bash
+sudo python setup.py install
+```
+
 # Resources
 + A soft introduction to [Akaike Information Criteria](https://coolstatsblog.com/2013/08/14/using-aic-to-test-arima-models-2/)
 + A [video introduction](https://www.youtube.com/watch?v=YkD7ydzp9_E) to AIC
