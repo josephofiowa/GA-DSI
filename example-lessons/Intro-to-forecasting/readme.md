@@ -13,7 +13,7 @@ Depedency note: you must have statsmodels==0.8 for seasonal ARIMA models. This i
 
 Run:
 ```bash
-git clone git://github.com/statsmodels/statsmodels.git```
+git clone git://github.com/statsmodels/statsmodels.git
 ```
 Followed by:
 ```bash
