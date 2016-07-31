@@ -11,7 +11,7 @@ https://github.com/josephnelson93/GA-DSI/blob/master/example-lessons/Intro-to-fo
 
 Depedency note: you must have statsmodels==0.8 for seasonal ARIMA models. This is the development version; you likely have the most recent stable release, statsmodels==0.6
 
-Run
+Run:
 ```bash
 git clone git://github.com/statsmodels/statsmodels.git```
 ```
