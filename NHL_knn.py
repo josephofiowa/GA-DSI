@@ -8,9 +8,16 @@ Created on Wed May 11 14:55:26 2016
 
 import pandas as pd
 NHL = pd.read_csv('https://raw.githubusercontent.com/josephnelson93/GA-DSI/master/NHL_Data_GA.csv')
+
+# check it out
 NHL.head()
 NHL.describe()
 NHL.shape
+
+# what is rank?
+NHL.Rank            # ok...
+NHL.Rank.nunique()  # how many diff values?
+NHL.Rank.unique()   # and what are they, anyway?
 
 NHL.isnull().sum()
 
@@ -59,6 +66,8 @@ y_pred_class = knn.predict(X)
 from sklearn import metrics
 print metrics.accuracy_score(y, y_pred_class)
 
+# what are we observing from the above accuracy?
+
 '''
 Train, test, split
 '''
@@ -83,7 +92,7 @@ knn.fit(X_train, y_train)
 y_pred_class = knn.predict(X_test)
 print metrics.accuracy_score(y_test, y_pred_class)
 
-# test with 65 neighbors
+# test with 64 neighbors
 knn = KNeighborsClassifier(n_neighbors=64)
 knn.fit(X_train, y_train)
 y_pred_class = knn.predict(X_test)
