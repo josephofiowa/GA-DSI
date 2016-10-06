@@ -1,0 +1,106 @@
+pos             Position (C,L,R,D,G)
+num             Players jersey number
+hits            Number of hits
+oz_hits         Number of hits in offensive zone
+nz_hits         Number of hits in neutral zone
+dz_hits         Number of hits in defensive zone
+p1_hits         Number of hits in first period
+p2_hits         Number of hits in second period
+p3_hits         Number of hits in third period
+ot_hits         Number of hits in overtime
+ev_hits         Number of hits at even strength
+pp_hits         Number of hits on powerplay
+sh_hits         Number of hits while shorthanded
+hits_taken      Number of hits taken
+oz_hits_t       Number of hits taken in offensive zone
+nz_hits_t       Number of hits taken in neutral zone
+dz_hits_t       Number of hits taken in defensive zone
+p1_hits_t       Number of hits taken in first period
+p2_hits_t       Number of hits taken in second period
+p3_hits_t       Number of hits taken in third period
+ot_hits_t       Number of hits taken in overtime
+ev_hits_t       Number of hits taken at even strength
+pp_hits_t       Number of hits taken on powerplay
+sh_hits_t       Number of hits taken while shorthanded
+g_hit_5_5v5     Number of good hits at 5v5 play (5 secs)
+b_hit_5_5v5     Number of bad hits at 5v5 play (5 secs)
+g_hit_10_5v5    Number of good hits at 5v5 play (10 secs)
+b_hit_10_5v5    Number of bad hits at 5v5 play (10 secs)
+g_hit_5_ev      Number of good hits at even strength (5 secs)
+b_hit_5_ev      Number of bad hits at even strength (5 secs)
+g_hit_10_ev     Number of good hits at even strength (10 secs)
+b_hit_10_ev     Number of bad hits at even strength (10 secs)
+g_hit_5_pp      Number of good hits on powerplay (5 secs)
+b_hit_5_pp      Number of bad hits on powerplay (5 secs)
+g_hit_10_pp     Number of good hits on powerplay (10 secs)
+b_hit_10_pp     Number of bad hits on powerplay (10 secs)
+g_hit_5_sh      Number of good hits while shorthanded (5 secs)
+b_hit_5_sh      Number of bad hits while shorthanded (5 secs)
+g_hit_10_sh     Number of good hits while shorthanded (10 secs)
+b_hit_10_sh     Number of bad hits while shorthanded (10 secs)
+
+# A good hit is one where the same player who threw the hit didn't have a
+# giveaway within 5/10 seconds of uninterrupted play before the hit.
+
+
+
+
+pos               Position (C,L,R,D,G)
+num               Players jersey number
+blocks            Number of blocked shots
+dz_block          Number of blocked shots in own defensive zone
+nz_block          Number of blocked shots in neutral zone
+oz_block          Number of blocked shots in own offensive zone
+p1_block          Number of blocked shots in first period
+p2_block          Number of blocked shots in second period
+p3_block          Number of blocked shots in third period
+ot_block          Number of blocked shots in overtime
+ev_block          Number of blocked shots at even strength
+sh_block          Number of blocked shots while shorthanded
+pp_block          Number of blocked shots on powerplay
+shot_blocked      Number of shots that were blocked by another player
+dz_blocked        Number of shots in own defensive zone that were blocked
+nz_blocked        Number of shots in neutral zone that were blocked
+oz_blocked        Number of shots in own offensive zone that were blocked
+p1_blocked        Number of shots in first period that were blocked
+p2_blocked        Number of shots in second period that were blocked
+p3_blocked        Number of shots in third period that were blocked
+ot_blocked        Number of shots in overtime that were blocked
+ev_blocked        Number of shots at even strength that were blocked
+sh_blocked        Number of shots while shorthanded that were blocked
+pp_blocked        Number of shots on powerplay that were blocked
+block_wrist       Number of blocked wrist shots
+block_slap        Number of blocked slapshots
+block_snap        Number of blocked snapshots
+block_back        Number of blocked backhands
+block_deflect     Number of blocked deflections
+block_tip         Number of blocked tipped shots
+block_wrap        Number of blocked wrap-arounds
+block_other       Number of blocked shots that aren't one of the above types
+blocked_wrist     Number of wrist shots that were blocked by another player
+blocked_slap      Number of slapshots that were blocked by another player
+blocked_snap      Number of snapshots that were blocked by another player
+blocked_back      Number of backhands that were blocked by another player
+blocked_deflect   Number of deflections that were blocked by another player
+blocked_tip       Number of tipped shots that were blocked by another player
+blocked_wrap      Number of wrap-arounds that were blocked by another player
+blocked_other     Number of shots that aren't one of the above types that were blocked by another player
+g_block_5_5v5     Number of good blocked shots at 5v5 play (5 secs)
+b_block_5_5v5     Number of bad blocked shots at 5v5 play (5 secs)
+g_block_10_5v5    Number of good blocked shots at 5v5 play (10 secs)
+b_block_10_5v5    Number of bad blocked shots at 5v5 play (10 secs)
+g_block_5_ev      Number of good blocked shots at even strength (5 secs)
+b_block_5_ev      Number of bad blocked shots at even strength (5 secs)
+g_block_10_ev     Number of good blocked shots at even strength (10 secs)
+b_block_10_ev     Number of bad blocked shots at even strength (10 secs)
+g_block_5_pp      Number of good blocked shots on powerplay (5 secs)
+b_block_5_pp      Number of bad blocked shots on powerplay (5 secs)
+g_block_10_pp     Number of good blocked shots on powerplay (10 secs)
+b_block_10_pp     Number of bad blocked shots on powerplay (10 secs)
+g_block_5_sh      Number of good blocked shots while shorthanded (5 secs)
+b_block_5_sh      Number of bad blocked shots while shorthanded (5 secs)
+g_block_10_sh     Number of good blocked shots while shorthanded (10 secs)
+b_block_10_sh     Number of bad blocked shots while shorthanded (10 secs)
+
+# A good block is one where the same player who blocked the shot didn't have a
+# giveaway within 5/10 seconds of uninterrupted play before the blocked shot.
