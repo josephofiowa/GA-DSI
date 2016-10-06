@@ -17,3 +17,6 @@ ADD
 
 - General Assembly hosts a variety of workshops in Intro to Python for Data Analysis, Intermediate Python, part-time Data Science classes, and full-time Data Science Immersives. Check them out [here](https://generalassemb.ly/education/)
 - Beginner [Jupyter Notebooks](https://github.com/jdwittenauer/ipython-notebooks) to learn more Python
+- [Blog post on json with pandas](https://www.dataquest.io/blog/using-json-data-in-pandas/)
+- [API article Wikipedia](https://en.wikipedia.org/wiki/Application_programming_interface)
+- [Programmable web](http://www.programmableweb.com/)
