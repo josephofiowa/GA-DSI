@@ -11,7 +11,22 @@ At the end of this session, you will:
 
 ## Lesson Materials
 
-ADD
+### Introduction
+
+Our welcome notes and introduction to APIs deck is [here]()
+
+### HTTP
+
+Our discussion of how HTTP works is [here](https://github.com/josephofiowa/GA-DSI/blob/master/intro-to-apis-python/HTTP-protocol.md)
+
+### Data Types in Python
+
+The Jupyter Notebook we used to discuss basic data types in Python is [here](https://github.com/josephofiowa/GA-DSI/blob/master/intro-to-apis-python/code/Intro.ipynb)
+
+### Using Our first API!
+
+The .py file (that we used in Spyder) to make requests and use our very first API (gasp!) is available [here]()
+
 
 ## Additional Resources
 
