@@ -13,7 +13,7 @@ At the end of this session, you will:
 
 ### Introduction
 
-Our welcome notes and introduction to APIs deck is [here]()
+Our welcome notes and introduction to APIs deck is [here](https://github.com/josephofiowa/GA-DSI/blob/master/intro-to-apis-python/assets/slides/intro-to-apis-in-python.pdf)
 
 ### HTTP
 
