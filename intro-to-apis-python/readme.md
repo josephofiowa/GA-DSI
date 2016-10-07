@@ -25,6 +25,8 @@ The Jupyter Notebook we used to discuss basic data types in Python is [here](htt
 
 ### Using Our first API!
 
+Visit the API we'll be using [here](www.omdbapi.com)
+
 The .py file (that we used in Spyder) to make requests and use our very first API (gasp!) is available [here](https://github.com/josephofiowa/dekegeek/blob/master/boshac16/code/api-usage-example.py)
 
 
