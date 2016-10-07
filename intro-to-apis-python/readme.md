@@ -23,11 +23,15 @@ Our discussion of how HTTP works is [here](https://github.com/josephofiowa/GA-DS
 
 The Jupyter Notebook we used to discuss basic data types in Python is [here](https://github.com/josephofiowa/GA-DSI/blob/master/intro-to-apis-python/code/Intro.ipynb)
 
-### Using Our first API!
+### Using Our First API!
 
 Visit the API we'll be using here: www.omdbapi.com
 
 The .py file (that we used in Spyder) to make requests and use our very first API (gasp!) is available [here](https://github.com/josephofiowa/dekegeek/blob/master/boshac16/code/api-usage-example.py)
+
+### Class audio
+
+The audio from our class (unfortunately no video) is available [here](https://www.youtube.com/watch?v=uXB8NReKRrA)
 
 
 ## Additional Resources
