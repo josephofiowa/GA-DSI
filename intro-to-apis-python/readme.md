@@ -13,7 +13,9 @@ At the end of this session, you will:
 
 ### Introduction
 
-Our welcome notes and introduction to APIs deck is [here](https://github.com/josephofiowa/GA-DSI/blob/master/intro-to-apis-python/assets/slides/intro-to-apis-in-python.pdf)
+**10/27 Department of Commerce workshop:** Our welcome notes and API deck is [here]()
+
+**10/6 workshop:** Our welcome notes and introduction to APIs deck is [here](https://github.com/josephofiowa/GA-DSI/blob/master/intro-to-apis-python/assets/slides/intro-to-apis-in-python.pdf)
 
 ### HTTP
 
@@ -27,11 +29,13 @@ The Jupyter Notebook we used to discuss basic data types in Python is [here](htt
 
 Visit the API we'll be using here: www.omdbapi.com
 
-The .py file (that we used in Spyder) to make requests and use our very first API (gasp!) is available [here](https://github.com/josephofiowa/dekegeek/blob/master/boshac16/code/api-usage-example.py)
+The .py file (that we used in Spyder) to make requests and use our very first API (gasp!) is available [here](https://github.com/josephofiowa/GA-DSI/blob/master/intro-to-apis-python/code/api-usage-example.py)
 
 ### Class audio
 
-The audio from our class (unfortunately no video) is available [here](https://www.youtube.com/watch?v=uXB8NReKRrA)
+
+
+**10/6 workshop:** Our workshop audio (unfortunately no video) is available [here](https://www.youtube.com/watch?v=uXB8NReKRrA)
 
 
 ## Additional Resources
