@@ -33,7 +33,7 @@ The .py file (that we used in Spyder) to make requests and use our very first AP
 
 ### Using Our Second API - the Department of Commerce API!
 
-We'll now use [this]() .py file to work with the Dept of Commerce API!
+We'll now use [this](https://github.com/josephofiowa/GA-DSI/blob/master/intro-to-apis-python/code/dept-of-commerce-example.py) .py file to work with the Dept of Commerce API!
 
 
 ### Class audio
