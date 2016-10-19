@@ -35,6 +35,13 @@ The .py file (that we used in Spyder) to make requests and use our very first AP
 
 We'll now use [this](https://github.com/josephofiowa/GA-DSI/blob/master/intro-to-apis-python/code/dept-of-commerce-example.py) .py file to work with the Dept of Commerce API!
 
+For this part of the lesson, we're going to want to use a few tools:
+
+- Be sure to [signup for your API key](https://api.data.gov/signup/)
+- This is the [documentation for the Dept of Commerce API](https://www.commerce.gov/page/api-documentation-commercegov)
+- Here's a list of [government API docs](https://api.data.gov/docs/)
+- We're going to want to download this [handy extension Chrome extension](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) and if you don't have Chrome, we'll use [this](http://jsonprettyprint.com/)
+
 
 ### Class audio
 
