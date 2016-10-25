@@ -26,3 +26,4 @@ Effective data journalism:
 - The only useful 3D chart I've seen [NYT](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
 - [Investigative data journalism](http://fivethirtyeight.com/features/a-plagiarism-scandal-is-unfolding-in-the-crossword-world/) from FiveThirtyEight
 - Messi is impossible [from FiveThirtyEight](fivethirtyeight.com/features/lionel-messi-is-impossible/)
+- Bonus: SIGN UP for this newsletter, [Data is Plural](http://tinyletter.com/data-is-plural/)
