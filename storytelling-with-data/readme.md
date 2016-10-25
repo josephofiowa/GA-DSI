@@ -6,14 +6,16 @@ Learning Objectives
 By the end of today, we should:
 
 - Understand what elements are required to be an effective data storyteller 
-- 
+- Grasp the basics of design
+- Understand data communication
+- Visualize in Excel
 
 
 ## Materials
 
 We'll be working with the World Bank's [data on global forestry](http://data.worldbank.org/indicator/AG.LND.FRST.K2?end=2015&name_desc=false&start=1990&view=chart)
 
-Our deck is available [here]()
+Our deck is available [here](https://github.com/josephofiowa/GA-DSI/blob/master/storytelling-with-data/storytelling-with-data.pdf)
 
 
 ## Additional resources:
