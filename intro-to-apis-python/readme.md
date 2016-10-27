@@ -56,3 +56,4 @@ For this part of the lesson, we're going to want to use a few tools:
 - [Blog post on json with pandas](https://www.dataquest.io/blog/using-json-data-in-pandas/)
 - [API article Wikipedia](https://en.wikipedia.org/wiki/Application_programming_interface)
 - [Programmable web](http://www.programmableweb.com/)
+- Please also download [Anaconda with Python 2.7 (not 3.5)](https://www.continuum.io/)
