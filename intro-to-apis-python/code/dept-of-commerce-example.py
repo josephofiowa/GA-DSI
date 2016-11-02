@@ -26,7 +26,7 @@ import requests
 import json
 import pandas as pd
 
-my_key = ########
+my_key = 'ZRBHozQuELDX36PqvNQsOSCrvurx4ULHZ4hgArho'
 
 # make a demo request
 r = requests.get('https://api.data.gov/nrel/alt-fuel-stations/v1/nearest.json?api_key='+my_key+'&location=Denver+CO')
@@ -43,6 +43,8 @@ json_data = json.loads(r.text)
 # work with this json object
 json_data['latitude']
 
+
+
 '''
 Let's get a bit more advanced!
 
@@ -51,11 +53,35 @@ Time to use the Dept of Commerce API
 
 r = requests.get('https://api.commerce.gov/api/blogs/?api_key='+my_key)
 
+# what's in r?
+r
+
+# let's grab the text of r
+r.text
+
+# let's now turn that into json so we can work with it easier
+json_data = json.loads(r.text)
+
 # let's identify data in our object
-read_json(json_data['data'][0]['id'])
+print json_data
+
+# At this stage, I need to know where specific data is in my json structure.
+# I recommend pasting this https://api.commerce.gov/api/blogs/?api_key='+my_key (replacing 
+# "my_key" with your actual key) into your web browser, and copying and 
+# pasting the response into http://jsonprettyprint.com/
+# Examine the above.
+
+# we can see our json is housed inside "data"
+json_data['data']
 
 # how many responses are in data?
 len(json_data['data'])
+
+# the first item within json_data is of interest
+json_data['data'][0]
+
+# to grab the id of that blog entry, I'm going to do this
+json_data['data'][0]['id']
 
 #Let's create an empty pandas dataframe with our columns
 doc_data = pd.DataFrame(columns=["id_no"])
