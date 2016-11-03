@@ -27,3 +27,7 @@ Effective data journalism:
 - [Investigative data journalism](http://fivethirtyeight.com/features/a-plagiarism-scandal-is-unfolding-in-the-crossword-world/) from FiveThirtyEight
 - Messi is impossible [from FiveThirtyEight](fivethirtyeight.com/features/lionel-messi-is-impossible/)
 - Bonus: SIGN UP for this newsletter, [Data is Plural](http://tinyletter.com/data-is-plural/)
+
+Lying with statistics:
+
+- This [Mother Jones](http://www.motherjones.com/kevin-drum/2016/11/how-mislead-statistics-gmo-crops-edition) take down of the NYT's misleading piece on herbicide use resulting from GMO crops
