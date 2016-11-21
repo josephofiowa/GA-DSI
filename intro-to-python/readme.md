@@ -9,3 +9,9 @@ At the end of this session, you will:
 - Know what functions are, and how to use them
 - Gain exposure to a variety of Python development tools
 
+## Exercises
+
+Our [notebook](https://github.com/josephofiowa/GA-DSI/blob/master/intro-to-python/code/Intro.ipynb)
+
+Our [exercise](https://github.com/josephofiowa/GA-DSI/blob/master/intro-to-python/code/exercise-1.ipynb)
+
