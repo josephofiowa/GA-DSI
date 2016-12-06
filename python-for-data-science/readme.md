@@ -17,7 +17,11 @@ At the end of this session, you will:
 - Utilize key functionality required to clean data
 - Use Pandas to produce 4 different useful visualizations
 
-# Resources
+## In-Class
+
+We'll be working with [this](https://github.com/josephofiowa/GA-DSI/blob/master/python-for-data-science/pandas-workshop.ipynb) notebook.
+
+## Resources
 
 - [Pandas documentation](http://pandas.pydata.org/pandas-docs/stable/)
 - [Data School's Pandas series](http://www.dataschool.io/easier-data-analysis-with-pandas/) Thanks, Kevin!
