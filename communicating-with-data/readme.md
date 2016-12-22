@@ -30,7 +30,7 @@ Effective data journalism:
 
 Tools of the trade:
 
-- d3.js [example](https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/) and [galllery](https://github.com/d3/d3/wiki/Gallery)
+- d3.js [example](https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/) illuminating how Americans spend their days and [gallery](https://github.com/d3/d3/wiki/Gallery)
 - Tableau dashboard example on [Airbnb data](https://public.tableau.com/en-us/s/blog/2015/07/analyzing-airbnb-data)
 
 
