@@ -13,7 +13,7 @@ By the end of today, we should:
 ## Materials
 
 
-Our deck is available [here](https://github.com/josephofiowa/GA-DSI/blob/master/communicating-with-data/communicating-with-data.pdf
+Our deck is available [here](https://github.com/josephofiowa/GA-DSI/blob/master/communicating-with-data/communicating-with-data.pdf)
 
 
 ## Additional resources:
