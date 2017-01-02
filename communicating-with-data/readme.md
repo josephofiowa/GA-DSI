@@ -37,6 +37,7 @@ Tools of the trade:
 Lying with statistics:
 
 - This [Mother Jones](http://www.motherjones.com/kevin-drum/2016/11/how-mislead-statistics-gmo-crops-edition) take down of the NYT's misleading piece on herbicide use resulting from GMO crops
+- Misrepresenatation of economic views on [school choice](http://reason.com/blog/2017/01/02/the-new-york-times-gets-everything-wrong)
 
 
 Reading list:
