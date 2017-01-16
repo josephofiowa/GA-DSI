@@ -12,6 +12,10 @@ By the conclusion of this lessson, you will:
 
 ## Deck
 
+We'll be using the deck [here](./object-oriented-programming-doc.pdf)
 
 ## Code
 
+We'll start with the code [here](./intro-to-variables.ipynb) in a Jupyter Notebook.
+
+We'll work with Classes and Objects [here](./oop.py) using the Spyder development environment.
