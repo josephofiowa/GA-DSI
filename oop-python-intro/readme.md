@@ -20,6 +20,8 @@ We'll start with the code [here](./intro-to-variables-functions.ipynb) in a Jupy
 
 We'll work with Classes and Objects [here](./oop.py) using the Spyder development environment.
 
+Example solution code from our exercise is [here](./oop-solution.py).
+
 ## Other Classes
 
 Other classes I teach at GA are available [here](https://generalassemb.ly/instructors/joseph-nelson/9762).
