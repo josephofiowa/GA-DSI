@@ -48,3 +48,7 @@ Reading list:
 - Freaknomics-style dive into stats: Naked Statistics ([link](https://www.amazon.com/gp/product/039334777X?ie=UTF8&tag=jn0af-20&camp=1789&linkCode=xm2&creativeASIN=039334777X))
 - Product analytics/startups - The Lean Startup ([link](https://www.amazon.com/gp/product/0307887898/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=jn0af-20&linkId=6a6bcfcfbe5a63807f7f29069a8b9164))
 
+## Entropy
+
+Keep up on DC data events: join my newsletter, [Entropy](https://www.josephofiowa.com/entropy/).
+
