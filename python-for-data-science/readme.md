@@ -28,7 +28,7 @@ We'll be working with [this](https://github.com/josephofiowa/GA-DSI/blob/master/
 
 ## Keep in Touch
 
-- I send out resources to learn data science, industry news, fun datasets, tutorials, and great Meetups weekly. Learn how to engage with the data science community and [signup for Entropy](www.josephofiowa.com/entropy)
+- I send out resources to learn data science, industry news, fun datasets, tutorials, and great Meetups weekly. Learn how to engage with the data science community and [signup for Entropy](https://www.josephofiowa.com/entropy)
 - [@josephofiowa](https://twitter.com/josephofiowa) on Twitter
 
 
