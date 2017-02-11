@@ -1,5 +1,9 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Intro to Coding
 
+This repo was used for a 1.5hr lecture used as a part of GA DC's one-day Career Lab.
+
+## Deck
+
 We'll be using this deck: [linked](./intro-to-coding.pdf)
 
 ## Necessary Links
@@ -16,6 +20,27 @@ We'll also look at this [HTML file](./example.html) (Feeling bold? Download a te
 
 ## What's Next?
 
-- [Codecademy](https://www.codecademy.com/)
+### Data 
+
 - [Datacamp](https://www.datacamp.com/)
+- [Codecademy](https://www.codecademy.com/)
 - GA has tons of [classes!](https://generalassemb.ly/education)
+
+
+### JavaScript
+
+- When learning JavaScript for web development, bear in mind React has a "You can't sue FB over patents" [clause](https://medium.com/bits-and-pixels/a-compelling-reason-not-to-use-reactjs-beac24402f7b#.f4edlpueg)
+- Eloquent JavaScript [textbook](http://eloquentjavascript.net/)
+- [Codecademy](https://www.codecademy.com/)
+- GA has tons of [classes!](https://generalassemb.ly/education)
+
+### Swift
+
+- Udemy as a $15 [class](- When learning JavaScript for web development, bear in mind React has a "You can't sue FB over patents" [clause](https://medium.com/bits-and-pixels/a-compelling-reason-not-to-use-reactjs-beac24402f7b#.f4edlpueg))
+- GA has tons of [classes!](https://generalassemb.ly/education)
+
+### Ruby
+
+- [Ruby Cookbook](http://shop.oreilly.com/product/9780596523695.do)
+
+
