@@ -36,11 +36,12 @@ We'll also look at this [HTML file](./example.html) (Feeling bold? Download a te
 
 ### Swift
 
-- Udemy as a $15 [class](- When learning JavaScript for web development, bear in mind React has a "You can't sue FB over patents" [clause](https://medium.com/bits-and-pixels/a-compelling-reason-not-to-use-reactjs-beac24402f7b#.f4edlpueg))
-- GA has tons of [classes!](https://generalassemb.ly/education)
+- Udemy as a $45 iOS 9 [class](https://www.udemy.com/ios9-swift/)
 
 ### Ruby
 
 - [Ruby Cookbook](http://shop.oreilly.com/product/9780596523695.do)
+- GA has tons of [classes!](https://generalassemb.ly/education)
+
 
 
