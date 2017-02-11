@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Intro to Coding
 
-We'll be using this deck:
+We'll be using this deck: [linked](./intro-to-coding.pdf)
 
 ## Necessary Links
 
