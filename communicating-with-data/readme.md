@@ -26,6 +26,7 @@ Effective data journalism:
 - Dense data journalism about [voting elasticities](http://fivethirtyeight.com/features/swing-voters-and-elastic-states/) from Nate Silver
 - The only useful 3D chart I've seen [NYT](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
 - FiveThirtyEight's Gun Deaths in America [piece](http://fivethirtyeight.com/features/gun-deaths/)
+- A great example of A/B testing featured on [Optimizely](https://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/) Obama's 2008 campaign
 - Bonus: SIGN UP for this newsletter, [Data is Plural](http://tinyletter.com/data-is-plural/)
 
 Tools of the trade:
