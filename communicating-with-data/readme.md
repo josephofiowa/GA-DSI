@@ -21,7 +21,7 @@ Our deck is available [here](https://github.com/josephofiowa/GA-DSI/blob/master/
 
 Effective data journalism:
 
-- Messi is impossible [from FiveThirtyEight](fivethirtyeight.com/features/lionel-messi-is-impossible/)
+- Messi is impossible [from FiveThirtyEight](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
 - How States Have Swing [from FiveThirtyEight](http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html?_r=2&)
 - Dense data journalism about [voting elasticities](http://fivethirtyeight.com/features/swing-voters-and-elastic-states/) from Nate Silver
 - The only useful 3D chart I've seen [NYT](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
