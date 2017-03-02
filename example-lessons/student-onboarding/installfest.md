@@ -95,6 +95,8 @@ $ source ~/.bashrc
 
 ## Part 3. Confirm Your Python Installation
 
+(We'll do this together!)
+
 1. When you've gotten this far, open up a terminal and enter the Python interpreter:
 
  ```
