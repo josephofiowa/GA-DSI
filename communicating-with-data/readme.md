@@ -44,12 +44,12 @@ Lying with statistics:
 
 Reading list:
 
-- Consider data in an alternative way - Freaknomics ([link](https://www.amazon.com/gp/product/0060731338?ie=UTF8&tag=jn0af-20&camp=1789&linkCode=xm2&creativeASIN=0060731338))
-- Data journalism with great illustration (worth the price) - SuperFreakonomics, Illustrated Edition ([link](https://www.amazon.com/gp/product/0061941220?ie=UTF8&tag=jn0af-20&camp=1789&linkCode=xm2&creativeASIN=0061941220))
-- Fun data-driven read about relationships, good viz - Dataclysm ([link](https://www.amazon.com/gp/product/0385347391?ie=UTF8&tag=jn0af-20&camp=1789&linkCode=xm2&creativeASIN=0385347391))
-- Freaknomics-style dive into stats: Naked Statistics ([link](https://www.amazon.com/gp/product/039334777X?ie=UTF8&tag=jn0af-20&camp=1789&linkCode=xm2&creativeASIN=039334777X))
-- Product analytics/startups - The Lean Startup ([link](https://www.amazon.com/gp/product/0307887898/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=jn0af-20&linkId=6a6bcfcfbe5a63807f7f29069a8b9164))
-- How to Lie with Charts ([link](https://www.amazon.com/gp/product/1583487670/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=jn0af-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1583487670&linkId=a00679f88b15f424369578494b6f7537))
+- Consider data in an alternative way - Freaknomics ([link](https://www.amazon.com/gp/product/0060731338?ie=UTF8&tag=josephofiowa-20&camp=1789&linkCode=xm2&creativeASIN=0060731338))
+- Data journalism with great illustration (worth the price) - SuperFreakonomics, Illustrated Edition ([link](https://www.amazon.com/gp/product/0061941220?ie=UTF8&tag=josephofiowa-20&camp=1789&linkCode=xm2&creativeASIN=0061941220))
+- Fun data-driven read about relationships, good viz - Dataclysm ([link](https://www.amazon.com/gp/product/0385347391?ie=UTF8&tag=josephofiowa-20&camp=1789&linkCode=xm2&creativeASIN=0385347391))
+- Freaknomics-style dive into stats: Naked Statistics ([link](https://www.amazon.com/gp/product/039334777X?ie=UTF8&tag=josephofiowa-20&camp=1789&linkCode=xm2&creativeASIN=039334777X))
+- Product analytics/startups - The Lean Startup ([link](https://www.amazon.com/gp/product/0307887898/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=josephofiowa-20&linkId=6a6bcfcfbe5a63807f7f29069a8b9164))
+- How to Lie with Charts ([link](https://www.amazon.com/gp/product/1583487670/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=josephofiowa-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1583487670&linkId=a00679f88b15f424369578494b6f7537))
 
 ## Entropy
 
