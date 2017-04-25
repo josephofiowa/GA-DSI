@@ -29,6 +29,11 @@ Effective data journalism:
 - A great example of A/B testing featured on [Optimizely](https://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/) Obama's 2008 campaign
 - Bonus: SIGN UP for this newsletter, [Data is Plural](http://tinyletter.com/data-is-plural/)
 
+Couple of stories from me (Editor's Picks on Medium! ...if that sounds impressive)
+
+- [Obama v The Onion](https://medium.com/@josephofiowa/what-real-fake-news-says-about-obamas-presidency-4bf42be71ff1)
+- [Auditing OPM](https://medium.com/@josephofiowa/auditing-the-feds-what-determines-a-federal-government-snow-day-75a3432c613a)
+
 Tools of the trade:
 
 - d3.js [example](https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/) illuminating how Americans spend their days and [gallery](https://github.com/d3/d3/wiki/Gallery)
