@@ -24,6 +24,7 @@ Effective data journalism:
 - Messi is impossible [from FiveThirtyEight](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
 - How States Have Swing [from FiveThirtyEight](http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html?_r=2&)
 - Dense data journalism about [voting elasticities](http://fivethirtyeight.com/features/swing-voters-and-elastic-states/) from Nate Silver
+- Politico's Trump Visits Database [here](http://www.politico.com/interactives/databases/trump-white-house-visitor-logs-and-records/index.html)
 - The only useful 3D chart I've seen [NYT](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
 - FiveThirtyEight's Gun Deaths in America [piece](http://fivethirtyeight.com/features/gun-deaths/)
 - A great example of A/B testing featured on [Optimizely](https://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/) Obama's 2008 campaign
@@ -56,7 +57,13 @@ Reading list:
 - Product analytics/startups - The Lean Startup ([link](https://www.amazon.com/gp/product/0307887898/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=josephofiowa-20&linkId=6a6bcfcfbe5a63807f7f29069a8b9164))
 - How to Lie with Charts ([link](https://www.amazon.com/gp/product/1583487670/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=josephofiowa-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1583487670&linkId=a00679f88b15f424369578494b6f7537))
 
-## Entropy
+## What's Next
+
+### Data at GA
+
+GA has a host of [data workshops](https://generalassemb.ly/education?format=classes-workshops&topic=8) as well as [part-time](https://generalassemb.ly/education?format=courses&topic=8) and [full-time](https://generalassemb.ly/education?topic=8&format=immersives) classes.
+
+### Entropy
 
 Keep up on DC data events: join my newsletter, [Entropy](https://www.josephofiowa.com/entropy/).
 
