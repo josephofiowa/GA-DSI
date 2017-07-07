@@ -26,7 +26,7 @@ import requests
 import json
 import pandas as pd
 
-my_key = 'ZRBHozQuELDX36PqvNQsOSCrvurx4ULHZ4hgArho'
+my_key = ''
 
 # make a demo request
 r = requests.get('https://api.data.gov/nrel/alt-fuel-stations/v1/nearest.json?api_key='+my_key+'&location=Denver+CO')
