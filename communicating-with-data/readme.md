@@ -46,6 +46,7 @@ Lying with statistics:
 - The why: The best way to battle lies with statistics is gaining statistical literacy [read more](https://aeon.co/ideas/how-statistics-are-twisted-to-obscure-public-understanding?utm_term=0_411a82e59d-3e1e9c0ee9-69057898&utm_content=buffer45831&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - This [Mother Jones](http://www.motherjones.com/kevin-drum/2016/11/how-mislead-statistics-gmo-crops-edition) take down of the NYT's misleading piece on herbicide use resulting from GMO crops
 - Misrepresenatation of economic views on [school choice](http://reason.com/blog/2017/01/02/the-new-york-times-gets-everything-wrong)
+- Does More Competition Reduce Healthcare Prices? [story](https://www.linkedin.com/pulse/does-more-competition-lead-lower-health-insurance-prices-cohen) The author does **not** mislead, but could have. (Focusing on minimum premium price vs average premium price produces very different results)
 - (In)effective visualization via [KDNuggets](http://www.kdnuggets.com/2017/03/what-makes-good-data-visualization.html)
 
 
