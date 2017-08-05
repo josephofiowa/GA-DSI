@@ -18,7 +18,8 @@ url = 'https://raw.githubusercontent.com/josephofiowa/DAT8/master/data/drinks.cs
 drinks = pd.read_csv(url, header=0, names=drink_cols, na_filter=False)
 
 # sort the beer column and mentally split it into 3 groups
-drinks.beer.order().values
+drinks.beer.order().values              # deprecated
+drinks.beer.sort_values().values 
 
 # compare with histogram
 drinks.beer.plot(kind='hist', bins=3)
@@ -163,4 +164,4 @@ plt.savefig('beer_histogram.png')
 plt.style.available
 
 # change to a different style
-plt.style.use('ggplot')
+plt.style.use('fivethirtyeight')
