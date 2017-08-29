@@ -20,7 +20,7 @@ from statsmodels.tsa.stattools import acf
 from statsmodels.tsa.stattools import pacf
 from statsmodels.tsa.seasonal import seasonal_decompose
 
-bus = pd.read_csv('https://raw.githubusercontent.com/josephnelson93/GA-DSI/master/example-lessons/Intro-to-forecasting/portland-oregon-average-monthly-.csv', index_col=0)
+bus = pd.read_csv('https://raw.githubusercontent.com/josephofiowa/GA-DSI/master/example-lessons/Intro-to-forecasting/portland-oregon-average-monthly-.csv', index_col=0)
 bus.index.name=None
 bus.reset_index(inplace=True)
 bus.head()
