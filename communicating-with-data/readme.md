@@ -22,7 +22,7 @@ Our deck is available [here](https://github.com/josephofiowa/GA-DSI/blob/master/
 Effective data journalism:
 
 - Messi is impossible [from FiveThirtyEight](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
-- How States Have Swing [from FiveThirtyEight](http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html?_r=2&)
+- How States Have Swung [from FiveThirtyEight](http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html?_r=2&)
 - Dense data journalism about [voting elasticities](http://fivethirtyeight.com/features/swing-voters-and-elastic-states/) from Nate Silver
 - Politico's Trump Visits Database [here](http://www.politico.com/interactives/databases/trump-white-house-visitor-logs-and-records/index.html)
 - The only useful 3D chart I've seen [NYT](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
@@ -39,6 +39,7 @@ Tools of the trade:
 
 - d3.js [example](https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/) illuminating how Americans spend their days and [gallery](https://github.com/d3/d3/wiki/Gallery)
 - Tableau dashboard example on [Airbnb data](https://public.tableau.com/en-us/s/blog/2015/07/analyzing-airbnb-data)
+- Piktochart ([link](https://piktochart.com/)) and Canva ([link](https://www.canva.com/))
 
 
 Lying with statistics:
