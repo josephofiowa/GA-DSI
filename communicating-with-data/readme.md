@@ -10,6 +10,11 @@ By the end of today, we should:
 - Gain the ability to challenge (or construct) a narrative based on misleading statistics
 - Utilize communication and presentation best practices
 
+## Joseph contact info:
+
+- [Twitter](https://twitter.com/josephofiowa)
+- [LinkedIn](https://www.linkedin.com/in/josephofiowa/)
+- [Data science newsletter / email](https://us14.campaign-archive.com/home/?u=e29c852bdacd995b3e5b3a27a&id=0efcf147e7)
 
 ## Materials
 
