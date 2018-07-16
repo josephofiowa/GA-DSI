@@ -75,3 +75,6 @@ GA has a host of [data workshops](https://generalassemb.ly/education?format=clas
 
 Keep up on DC data events: join my newsletter, [Entropy](https://www.josephofiowa.com/entropy/).
 
+### Vera
+
+Our [presentation](https://drive.google.com/drive/folders/1xQLrZeMsN-zIycsrqMY8uQTCQIfPv7LP)
