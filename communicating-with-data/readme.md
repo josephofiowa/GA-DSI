@@ -65,6 +65,10 @@ Reading list:
 - Product analytics/startups - The Lean Startup ([link](https://www.amazon.com/gp/product/0307887898/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307887898&linkCode=as2&tag=josephofiowa-20&linkId=6a6bcfcfbe5a63807f7f29069a8b9164))
 - How to Lie with Charts ([link](https://www.amazon.com/gp/product/1583487670/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=josephofiowa-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1583487670&linkId=a00679f88b15f424369578494b6f7537))
 
+Communication:
+
+- Completed X by doing Y as measured by Z [link](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume)
+
 ## What's Next
 
 ### Data at GA
@@ -74,7 +78,3 @@ GA has a host of [data workshops](https://generalassemb.ly/education?format=clas
 ### Entropy
 
 Keep up on DC data events: join my newsletter, [Entropy](https://www.josephofiowa.com/entropy/).
-
-### Vera
-
-Our [presentation](https://drive.google.com/drive/folders/1xQLrZeMsN-zIycsrqMY8uQTCQIfPv7LP)
