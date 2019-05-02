@@ -25,6 +25,7 @@ We'll be working with [this](https://github.com/josephofiowa/GA-DSI/blob/master/
 
 - [Pandas documentation](http://pandas.pydata.org/pandas-docs/stable/)
 - [Data School's Pandas series](http://www.dataschool.io/easier-data-analysis-with-pandas/) Thanks, Kevin!
+- [Chris Albon's site](https://chrisalbon.com/)
 
 ## Keep in Touch
 
